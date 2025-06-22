@@ -23,4 +23,6 @@ The MovieLens 100k dataset, one of the most widely used and standardized dataset
  Lastly, a function to create Top-N movie recommendations for any user—aside from those the user has already rated—is also included in the code.  This feature simulates a recommendation list similar to those seen on real-world platforms like Netflix or Amazon by ranking the anticipated ratings for unrated goods and returning the top ones. A list of movie IDs and the corresponding expected scores is the output.  In conclusion, this system uses common Python tools to illustrate a collaborative filtering recommendation engine that is fully functioning.  It demonstrates the application of a simple yet effective machine learning method, such as matrix factorization, to tailored recommendations.  The method works rather well on benchmark datasets like MovieLens, is simple to apply, and is interpretable.
 
  *OUTPUT:*
+
+ ![Image](https://github.com/user-attachments/assets/081e0edd-2354-48bb-8e42-ec3475c8d75c)
  
